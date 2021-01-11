@@ -1,20 +1,19 @@
 <span id="a">sankalpsharma@dev</span>:<span id="b">~</span><span id="c">$</span> git clone profiles/sankalp
-<span id="a">sankalpsharma@dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->my_profile.txt<br/><br/>
+<span id="a">sankalpsharma@dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->my_profile.txt<br>
 <p>
-Welcome to the matrix! My name is Neo. just kidding. This is <span id="a">Sankalp Sharma</span>. <!-- sjkfhskjf -->
-I am a Developer | Software Engineer | OpenSource Contributor | Designer | Explorer.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Welcome to the matrix! My name is Neo, just kidding. This is <span id="a">Sankalp Sharma</span>. <!-- sjkfhskjf -->
+I am a Developer | Software Engineer | OpenSource Contributor | Designer | Explorer | Investor<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 Words that I follow, "<span id="k">Carpe Diem!</span>".
 </p>
-<p>I have a bachelors and masters in Computer Science Engineering with specialization in Machine Learning</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p>I am currently working as a Software Engineer @ <span id="a">NI</span> and Creator @ <span id="a">Occam's Razor Labs</span></p>
+<p>I have a bachelors and masters in Computer Science Engineering with specialization in Machine Learning.</p><p>I am currently working as a Software Engineer @ <span id="a">NI</span> and Creator @ <span id="a">Occam's Razor Labs</span></p>
 <p> 
 <span id="a">Development:</span> I am comfortable with Python and C 
-<span id="a"Design:</span> Experience in Graphic Design, Logo Design and UI/UX Design
+<span id="a">Design:</span> Experience in Graphic Design, Logo Design and UI/UX Design
 <span id="a">Creator:</span> I have created some products, for more details:  <a href="wwww.occamsrazorlabs.com">Occam's Razor Labs</a>
 Download my resume <a href="link">here</a>.</p>
 <p>I speak English, Hindi and Spanish. I have some hobbies too!<br><br><br>Swimming, Skating, Trekking, Adventure Sports, Piano, Digital Music , Badminton, Traveling and I am always up for more.</p>
 <p> Here are some of my profiles over different platforms <a href="link1">GitHub</a> <a href="link2">LinkedIn</a> <a href="link3">Instagram</a></p>
 
-If you want to get in touch<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><span id="a">sharmasankalp@outlook.com</span>.
+If you want to get in touch<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><span id="a">sharmasankalp@outlook.com</span>.
 
 <p>Adios!</p>
