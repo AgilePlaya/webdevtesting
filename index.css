@@ -6,7 +6,13 @@ body {
 * {margin: 0; padding: 0;}
 
 /*adding a black bg to the body to make things clearer*/
-canvas {display: block;}
+canvas {
+	display: block;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	float: left;
+}
 
 #console {
 	font-family: courier, monospace;
