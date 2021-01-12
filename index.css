@@ -1,6 +1,12 @@
 body {
 	background-color: #000
 }
+
+/*basic reset*/
+* {margin: 0; padding: 0;}
+/*adding a black bg to the body to make things clearer*/
+canvas {display: block;}
+
 #console {
 	font-family: courier, monospace;
 	color: #fff;
