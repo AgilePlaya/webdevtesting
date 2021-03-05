@@ -1,7 +1,7 @@
 <span id="a">sankalpsharma@dev</span>:<span id="b">~</span><span id="c">$</span> git clone profiles/sankalp
 <span id="a">sankalpsharma@dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->my_profile.txt<br>
 <p>
-Welcome to the matrix! My name is Neo, just kidding. This is <span id="a">Sankalp Sharma</span>. <!-- sjkfhskjf -->
+Welcome to the matrix! My name is Neo, just kidding. This is <span id="a">Aritro Mukherjee</span>. <!-- sjkfhskjf -->
 I am a Developer | Software Engineer | OpenSource Contributor | Designer | Explorer | Investor<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 Words that I follow, "<span id="k">Carpe Diem!</span>".
 </p>
